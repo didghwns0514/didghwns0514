@@ -1,6 +1,9 @@
 ### Hi visitor 👋 Welcome to my Page!
 
+<br/>
+
 ### About me🧑:
+I am Korean.<br/>
 I am an Embedded Engine System developer in Vitesco technologies-Korea using C language.<br/>
 I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
@@ -22,7 +25,7 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <br/>
 <br/>
 
-- Personal commits : \
+- Personal commits :
 <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
 
 <br/>
@@ -52,25 +55,17 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <br/>
+<div align="center">
 
-#### Programing languages :
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px>
+| 값 | 의미 |
+|----|----|
+| Programing languages | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px> |
+| Frontend development | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'  width=30px height=30px> |
+| Frontend development |<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px> |
+| AI/ML |<img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width=30px height=30px> |
+| Other |<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px> |
 
-#### Frontend development :
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'  width=30px height=30px>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'  width=30px height=30px>
-
-
-#### Frontend development :
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px>
-
-#### AI/ML :
-<img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width=30px height=30px>
-
-#### Other :
-<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px>
-
+</div>
 
 ---
 
