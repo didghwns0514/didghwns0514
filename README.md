@@ -35,18 +35,19 @@ https://gist.github.com/rxaviers/7360908
 -->
 
 ### Recent Projects 👍:
+<div style="max-height:200px;">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=touch2eat)](https://github.com/didghwns0514/touch2eat)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=django_kakaoChatbot)](https://github.com/didghwns0514/django_kakaoChatbot)
+</div>
+
+<div style="max-height:200px;">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=news_summary_)](https://github.com/didghwns0514/news_summary_)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=stock_price_prediction)](https://github.com/didghwns0514/stock_price_prediction)
+</div>
 
 ---
-<summary>
-
 ### Languages and Tools 🛠: 
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
@@ -70,11 +71,9 @@ https://gist.github.com/rxaviers/7360908
 #### Other :
 <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px>
 
-</summary>
 
 ---
 
-<br/>
 
 ### Github Activity ✔:
 <div align="center">
