@@ -1,10 +1,13 @@
-### Hi there 👋 Welcome to my Page!
+### Hi visitor 👋 Welcome to my Page!
 
 ### About me🧑:
 I am an Embedded Engine System developer in Vitesco technologies-Korea using C language.<br/>
 I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="300" height="200" />
+<br/>
+
+<div>
+<img align="left" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="280" height="200" style="margin:0 30px 0 0;"/>
 
 - 🔭 I’m currently working on Frontend Web Development.
 - 🌱 I’m currently learning Backend Development.
@@ -12,6 +15,13 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 - 🎢 Profile Visitors Count:  
     ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
 - 🙌 Personal Technial learning Blog : [link](https://korshika.tistory.com/)
+
+</div>
+
+<br/>
+<br/>
+<br/>
+
 - Personal commits : \
 <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
 
@@ -38,13 +48,13 @@ https://gist.github.com/rxaviers/7360908
 <summary>
 
 ### Languages and Tools 🛠: 
-<br/>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<br/>
+
 #### Programing languages :
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px>
-
 
 #### Frontend development :
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'  width=30px height=30px>
