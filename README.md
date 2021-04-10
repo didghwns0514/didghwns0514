@@ -10,7 +10,7 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <br/>
 
 <div>
-<img align="left" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="280" height="200" style="margin:0 30px 0 0;"/>
+<img align="left" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="280" height="200" style="margin:0 50px 0 0;"/>
 
 - 🔭 I’m currently working on Frontend Web Development.
 - 🌱 I’m currently learning Backend Development.
@@ -91,6 +91,7 @@ https://gist.github.com/rxaviers/7360908
 <br/>
 
 </div>
+
 -----
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
