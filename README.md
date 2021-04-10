@@ -91,15 +91,15 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
-### Courses and Learning ✒️ :
+### Courses & Learning & Books✒️ :
 - 2020 : 
   - [FastCampus Algorithm Class](https://fastcampus.co.kr/?gclid=CjwKCAjw9r-DBhBxEiwA9qYUpakRhXjFfASc7HZd0J-4ffK5TyJfphzZ4wjAmnHwAv98k3GJMDcujBoC4awQAvD_BwE)
+
+
+- 2021 : 
   - [Opentutorials Javasctipt - page](https://opentutorials.org/course/743) \
     [Opentutorials Javasctipt - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)
-
-  
-- 2021 : -
-
+  - [Jump to Jango - Book](https://wikidocs.net/book/4223)
 
 ---
 <div align="center">
