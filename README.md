@@ -1,9 +1,10 @@
-### Hi visitor 👋 Welcome to my Page!
+### Hi visitors Welcome to my Page! 👋 
 
 <br/>
 
-### About me🧑:
+### About me 🧑 :
 I am Korean.<br/>
+I majored in Electronics and Electric Engineering. <br/>
 I am currently an Embedded Engine System developer in Vitesco technologies-Korea using C language.<br/>
 I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
@@ -14,8 +15,8 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 
 <div style="margin: 0 0 0 10px;">
 
-- 🔭 I’m currently working on Frontend Web Development.
-- 🌱 I’m currently learning Backend Development.
+- 🔭 I’m currently `mainly learning on Frontend Web Development`.
+- 🌱 I’m currently also learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🎢 Profile Visitors Count:  
     ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
@@ -40,20 +41,36 @@ https://github.com/anuraghazra/github-readme-stats
 https://gist.github.com/rxaviers/7360908
 -->
 
-### Recent Projects 👍:
-<div style="max-height:200px;">
+### Recent Projects 👍 :
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=touch2eat)](https://github.com/didghwns0514/touch2eat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=django_kakaoChatbot)](https://github.com/didghwns0514/django_kakaoChatbot)
 </div>
 
-<div style="max-height:200px;">
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=news_summary_)](https://github.com/didghwns0514/news_summary_)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=stock_price_prediction)](https://github.com/didghwns0514/stock_price_prediction)
 </div>
 
 ---
+
+### Github Activity ✔ :
+<div align="center">
+
+![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=didghwns0514&theme=solarized-light&show_icons=true)
+
+</div>
+
+
+<br/>
+
+
+
+
+---
+
 ### Languages and Tools 🛠: 
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
@@ -74,35 +91,35 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
+### Courses and Learning ✒️ :
+- 2020 : 
+  - [FastCampus Algorithm Class](https://fastcampus.co.kr/?gclid=CjwKCAjw9r-DBhBxEiwA9qYUpakRhXjFfASc7HZd0J-4ffK5TyJfphzZ4wjAmnHwAv98k3GJMDcujBoC4awQAvD_BwE)
+  - [Opentutorials Javasctipt - page](https://opentutorials.org/course/743) \
+    [Opentutorials Javasctipt - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)
 
-### Github Activity ✔:
-<div align="center">
-
-![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=didghwns0514&theme=solarized-light&show_icons=true)
-
-</div>
-
-
-<br/>
-
-
-
-<div align="center">
   
+- 2021 : -
+
+
+---
+<div align="center">
+<br/>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/didghwns0514?tab=repositories)!
 
 <br/>
 <br/>
 
-</div>
-
------
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
 Last Edited on: 10/04/2021
+
 ---
+
+</div>
+
+
 
 
 <!--
