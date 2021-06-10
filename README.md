@@ -100,8 +100,10 @@ https://gist.github.com/rxaviers/7360908
   - [Opentutorials Javasctipt - page](https://opentutorials.org/course/743) \
     [Opentutorials Javasctipt - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)
   - [Jump to Jango - Book](https://wikidocs.net/book/4223)
-  - [LifeCoding - React](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
+  - [Opentutorials - React](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
   - [DreamCoding Ellie - JavaScript](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
+  - [Opentutorials - JOIN](https://opentutorials.org/course/3884)
+  - [Opentutorials - MySQL](https://opentutorials.org/course/3161/19531)
 
 ---
 <div align="center">
