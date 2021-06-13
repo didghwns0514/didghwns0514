@@ -104,6 +104,7 @@ https://gist.github.com/rxaviers/7360908
   - [DreamCoding Ellie - JavaScript](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
   - [Opentutorials - JOIN](https://opentutorials.org/course/3884)
   - [Opentutorials - MySQL](https://opentutorials.org/course/3161/19531)
+  - [Inflearn - Basic HTTP web knowledge for all developers](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard)
 
 ---
 <div align="center">
