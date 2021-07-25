@@ -4,6 +4,7 @@
 
 ### About me 🧑 :
 I am Korean.<br/>
+I graduated SungKyunKwan University of Information department.<br/>
 I majored in Electronics and Electric Engineering. <br/>
 I am currently an Embedded Engine System developer in Vitesco technologies-Korea using C language.<br/>
 I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.
