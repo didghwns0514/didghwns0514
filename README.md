@@ -1,8 +1,9 @@
-### Hi visitors Welcome to my Page! 👋 
+### Hi visitors Welcome to my Page! 👋
 
 <br/>
 
 ### About me 🧑 :
+
 I am Korean.<br/>
 I graduated SungKyunKwan University of Information department.<br/>
 I majored in Electronics and Electric Engineering. <br/>
@@ -20,7 +21,7 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 - 🌱 I’m currently also learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🎢 Profile Visitors Count:  
-    ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
+   ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
 - 🙌 Personal Technial learning Blog : [link](https://korshika.tistory.com/)
 
 </div>
@@ -31,73 +32,75 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <br/>
 
 - Personal commits :
-<img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
+  <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
 
 <br/>
 
 ---
-<!-- 
-https://github.com/anuraghazra/github-readme-stats 
+
+<!--
+https://github.com/anuraghazra/github-readme-stats
 
 https://gist.github.com/rxaviers/7360908
 -->
 
 ### Recent Projects 👍 :
+
 <div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=touch2eat)](https://github.com/didghwns0514/touch2eat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=django_kakaoChatbot)](https://github.com/didghwns0514/django_kakaoChatbot)
+
 </div>
 
 <div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=news_summary_)](https://github.com/didghwns0514/news_summary_)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=stock_price_prediction)](https://github.com/didghwns0514/stock_price_prediction)
+
 </div>
 
 ---
 
 ### Github Activity ✔ :
+
 <div align="center">
 
 ![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=didghwns0514&theme=solarized-light&show_icons=true)
 
 </div>
 
-
 <br/>
-
-
-
 
 ---
 
-### Languages and Tools 🛠: 
+### Languages and Tools 🛠:
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <br/>
 <div align="center">
 
-| What | it |
-|:----:|:----:|
-| Programing languages | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px> |
+| What                 | it                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI/ML                | <img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width=30px height=30px>                                                                                                                                                                                                                                                                                                             |
+| Backend development  | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'  width=30px height=30px>                                                                                                                               |
+| Database             | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                           |
+| Framework            | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                                  |
 | Frontend development | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px> |
-|Backend development| <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'  width=30px height=30px> |
-| Framework |<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px> |
-| Database | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'  width=30px height=30px> |
-| AI/ML |<img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width=30px height=30px> |
-| Other |<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px> |
+| Other                | <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                                                                  |
+| Programing languages | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px>                                                                                                                                            |
 
 </div>
 
 ---
 
 ### Courses & Learning & Books✒️ :
-- 2020 : 
+
+- 2020 :
+
   - [FastCampus Algorithm Class](https://fastcampus.co.kr/?gclid=CjwKCAjw9r-DBhBxEiwA9qYUpakRhXjFfASc7HZd0J-4ffK5TyJfphzZ4wjAmnHwAv98k3GJMDcujBoC4awQAvD_BwE)
 
-
-- 2021 : 
+- 2021 :
   - [Opentutorials Javasctipt - page](https://opentutorials.org/course/743) \
     [Opentutorials Javasctipt - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)
   - [Jump to Jango - Book](https://wikidocs.net/book/4223)
@@ -108,8 +111,10 @@ https://gist.github.com/rxaviers/7360908
   - [Inflearn - Basic HTTP web knowledge for all developers](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard)
   - [Inflearn - Java SpringBoot Basics](https://www.inflearn.com/course/스프링-핵심-원리-기본편)
   - [Nomad Coders - Cocoatalk](https://nomadcoders.co/kokoa-clone/lobby)
+  - [Inflearn - Java basics](https://www.inflearn.com/course/자바-프로그래밍-입문)
 
 ---
+
 <div align="center">
 <br/>
 
@@ -118,7 +123,6 @@ https://gist.github.com/rxaviers/7360908
 <br/>
 <br/>
 
-
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
 Last Edited on: 10/04/2021
@@ -126,9 +130,6 @@ Last Edited on: 10/04/2021
 ---
 
 </div>
-
-
-
 
 <!--
 **didghwns0514/didghwns0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
