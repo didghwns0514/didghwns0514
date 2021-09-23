@@ -46,19 +46,23 @@ https://gist.github.com/rxaviers/7360908
 
 ### Recent Projects 👍 :
 
-<div>
+<!-- <div> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=touch2eat)](https://github.com/didghwns0514/touch2eat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=django_kakaoChatbot)](https://github.com/didghwns0514/django_kakaoChatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=touch2eat)](https://github.com/didghwns0514/touch2eat)<br>
 
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=django_kakaoChatbot)](https://github.com/didghwns0514/django_kakaoChatbot)<br>
 
-<div>
+<!-- </div> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=news_summary_)](https://github.com/didghwns0514/news_summary_)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=stock_price_prediction)](https://github.com/didghwns0514/stock_price_prediction)
+<!-- <div> -->
 
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=news_summary_)](https://github.com/didghwns0514/news_summary_)<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=stock_price_prediction)](https://github.com/didghwns0514/stock_price_prediction)<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=KnowhowFactory-Chicken-Automation)](https://github.com/didghwns0514/KnowhowFactory-Chicken-Automation)<br>
+
+<!-- </div> -->
 
 ---
 
@@ -125,7 +129,7 @@ https://gist.github.com/rxaviers/7360908
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
-Last Edited on: 10/04/2021
+Last Edited on: 2021.09.23
 
 ---
 
