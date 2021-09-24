@@ -20,9 +20,10 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 - 🔭 I’m currently `mainly learning on Frontend Web Development`.
 - 🌱 I’m currently also learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🎢 Profile Visitors Count:  
-   ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
-- 🙌 Personal Technial learning Blog : [link](https://korshika.tistory.com/)
+
+- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
+
+- **`🙌 Personal Technial learning Blog`** : [link](https://korshika.tistory.com/)
 
 </div>
 </div>
