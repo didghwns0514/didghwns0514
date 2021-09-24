@@ -15,9 +15,9 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <div>
 <img align="left" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="280" height="200" style="margin: 0 50px 0 0;"/>
 
-<div style="margin: 0 0 0 10px;">
+<div style="margin: 0 0 0 5px;flex-direction:column;display:flex;align-items:center;justify-content:center;">
 
-- 🔭 I’m currently `mainly learning on Frontend Web Development`.
+- 🔭 I’m currently `mainly learning on Backend & Frontend Web Development`.
 - 🌱 I’m currently also learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 
@@ -32,7 +32,7 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <br/>
 <br/>
 
-- Personal commits :
+- Personal commits :  
   <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
 
 <br/>
