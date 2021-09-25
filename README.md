@@ -18,7 +18,7 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 <div style="margin: 0 0 0 5px;flex-direction:column;display:flex;align-items:center;justify-content:center;">
 
 - 🔭 I’m currently `mainly learning on Backend & Frontend Web Development`.
-- 🌱 I’m currently also learning Backend Development.
+- 🌱 I’m currently also interesed in Machine Learning Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 
 - 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
