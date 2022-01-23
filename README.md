@@ -90,12 +90,12 @@ https://gist.github.com/rxaviers/7360908
 | What                 | it                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AI/ML                | <img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width=30px height=30px>                                                                                                                                                                                                                                                                                                             |
-| Backend development  | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'  width=30px height=30px>                                                                                                                               |
+| Backend development  | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'  width=30px height=30px> <img src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg'  width=30px height=30px>                              |
 | Database             | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                           |
-| Framework            | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                                  |
+| Framework            | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'  width=30px height=30px>                                                                                                                                            |
 | Frontend development | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px> |
 | Other                | <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  width=30px height=30px>                                                                                                                                                                                                                                                                                                                  |
-| Programing languages | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px>                                                                                                                                            |
+| Programing languages | <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'  width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width=30px height=30px> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' width=30px height=30px>                  |
 
 </div>
 
@@ -120,6 +120,8 @@ https://gist.github.com/rxaviers/7360908
   - [Inflearn - Java SpringBoot Basics](https://www.inflearn.com/course/스프링-핵심-원리-기본편)
   - [Nomad Coders - Cocoatalk](https://nomadcoders.co/kokoa-clone/lobby)
   - [Inflearn - Java basics](https://www.inflearn.com/course/자바-프로그래밍-입문)
+  - [Inflearn - SpringBoot MVC Basics](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+  - [Opentutorials Docker - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf)
 
 - 2022 :
   - [Inflearn - SpringBoot web MVC, DB access method](https://www.inflearn.com/course/스프링-입문-스프링부트)
@@ -136,9 +138,7 @@ https://gist.github.com/rxaviers/7360908
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
-Last Edited on: 2022.01.23
-
----
+## Last Edited on: 2022.01.23
 
 </div>
 
