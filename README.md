@@ -31,10 +31,10 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 
 **`🙌 Personal Technial learning Blog`** : [Link](https://korshika.tistory.com/) <br>
 <br>
-⚡ **`Personal commits`**  
+**`⚡ Personal commits`**  
 <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/> <br>
 
-🎢 **`Profile Visitors Count`** <br>
+**`🎢 Profile Visitors Count`** <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=47662495)<br>
 
 <br/>
