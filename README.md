@@ -1,39 +1,38 @@
-### Hi visitors Welcome to my Page! 👋
+## Hi visitors Welcome to my Page! 👋
 
 <br/>
 
-### About me 🧑 :
+### **About me** 🧑
+
+<div align="center">
+<img align="middle" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="500" height="300" style="margin: 0 50px 0 0;"/>
+
+<br>
 
 I am Korean.<br/>
 I graduated SungKyunKwan University of Information department.<br/>
 I majored in Electronics and Electric Engineering. <br/>
-I am currently an Embedded Engine System developer in Vitesco technologies-Korea using C language.<br/>
-I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.
+I am currently an Embedded Engine System developer in Vitesco technologies using C language.<br/>
+I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.<br/>
 
-<br/>
+</div>
 
 <div>
-<img align="left" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="280" height="200" style="margin: 0 50px 0 0;"/>
 
-<div style="margin: 0 0 0 5px;flex-direction:column;display:flex;align-items:center;justify-content:center;">
+<br style="margin: 0 0 0 5px;flex-direction:column;display:flex;align-items:center;justify-content:center;">
 
-- 🔭 I’m currently `mainly learning on Backend & Frontend Web Development`.
-- 🌱 I’m currently also interesed in Machine Learning Development.
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-
-- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=47662495)
-
-- **`🙌 Personal Technial learning Blog`** : [link](https://korshika.tistory.com/)
+🔭 I’m currently `mainly learning on Backend & Frontend Web Development`. <br>
+🌱 I’m currently also interesed in Machine Learning Development.<br>
+👯 I’m looking chances to collaborate with Fullstack Web Developers.<br>
 
 </div>
-</div>
 
 <br/>
-<br/>
-<br/>
 
-- Personal commits :  
-  <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
+🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=47662495)<br>
+**`🙌 Personal Technial learning Blog`** : [Link](https://korshika.tistory.com/) <br>
+⚡ **`Personal commits`**  
+ <img src="https://ghchart.rshah.org/002D2B/didghwns0514"/>
 
 <br/>
 
@@ -45,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://gist.github.com/rxaviers/7360908
 -->
 
-### Recent Projects 👍 :
+### **Recent Projects** 👍
 
 <!-- <div> -->
 
@@ -69,7 +68,7 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
-### Github Activity ✔ :
+### **Github Activity** ✔
 
 <div align="center">
 
@@ -81,7 +80,7 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
-### Languages and Tools 🛠:
+### **Languages and Tools** 🛠
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <br/>
@@ -101,7 +100,7 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
-### Courses & Learning & Books✒️ :
+### **Courses & Learning & Books** ✒️ :
 
 - 2020 :
 
