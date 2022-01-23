@@ -65,6 +65,8 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- </div> -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=AutonomousDriving)](https://github.com/didghwns0514/AutonomousDriving)<br>
+
 ---
 
 ### Github Activity ✔ :
@@ -106,6 +108,7 @@ https://gist.github.com/rxaviers/7360908
   - [FastCampus Algorithm Class](https://fastcampus.co.kr/?gclid=CjwKCAjw9r-DBhBxEiwA9qYUpakRhXjFfASc7HZd0J-4ffK5TyJfphzZ4wjAmnHwAv98k3GJMDcujBoC4awQAvD_BwE)
 
 - 2021 :
+
   - [Opentutorials Javasctipt - page](https://opentutorials.org/course/743) \
     [Opentutorials Javasctipt - youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)
   - [Jump to Jango - Book](https://wikidocs.net/book/4223)
@@ -117,6 +120,9 @@ https://gist.github.com/rxaviers/7360908
   - [Inflearn - Java SpringBoot Basics](https://www.inflearn.com/course/스프링-핵심-원리-기본편)
   - [Nomad Coders - Cocoatalk](https://nomadcoders.co/kokoa-clone/lobby)
   - [Inflearn - Java basics](https://www.inflearn.com/course/자바-프로그래밍-입문)
+
+- 2022 :
+  - [Inflearn - SpringBoot web MVC, DB access method](https://www.inflearn.com/course/스프링-입문-스프링부트)
 
 ---
 
@@ -130,7 +136,7 @@ https://gist.github.com/rxaviers/7360908
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
-Last Edited on: 2021.09.23
+Last Edited on: 2022.01.23
 
 ---
 
