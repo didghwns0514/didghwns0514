@@ -21,9 +21,10 @@ I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow m
 
 <br style="margin: 0 0 0 5px;flex-direction:column;display:flex;align-items:center;justify-content:center;">
 
-🔭 I’m currently `mainly learning on Backend & Frontend Web Development`. <br>
-🌱 I’m currently also interesed in Machine Learning Development.<br>
-👯 I’m looking chances to collaborate with Fullstack Web Developers.<br>
+🔭 I’m currently `learning on Backend & Frontend Web Development`. <br>
+🌱 I’m currently also `interesed in Machine Learning Development and projects like Autunomous driving and stock trading`.<br>
+
+<!-- 👯 I’m looking chances to collaborate with Fullstack Web Developers and ML developers regarding above areas.<br> -->
 
 </div>
 
