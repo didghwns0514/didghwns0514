@@ -12,7 +12,6 @@
 I am Korean.<br/>
 I graduated SungKyunKwan University of Information department.<br/>
 I majored in Electronics and Electric Engineering. <br/>
-I am currently an Embedded Engine System developer in Vitesco technologies using C language.<br/>
 I am interested in learning Front-End, Back-End, ML, AI and would 💖 to grow my knowledge in these Technologies.<br/>
 
 </div>
@@ -141,7 +140,7 @@ https://gist.github.com/rxaviers/7360908
 
 Credits: [HoJun Yang](https://github.com/didghwns0514)
 
-## Last Edited on: 2022.01.23
+## Last Edited on: 2022.10.27
 
 </div>
 
