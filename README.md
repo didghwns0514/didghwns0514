@@ -67,7 +67,7 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- </div> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=AutonomousDriving)](https://github.com/didghwns0514/AutonomousDriving)<br>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=didghwns0514&repo=AutonomousDriving)](https://github.com/didghwns0514/AutonomousDriving)<br> -->
 
 ---
 
